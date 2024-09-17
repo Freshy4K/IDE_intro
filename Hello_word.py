@@ -1,5 +1,5 @@
 print ("Hello World")
-print ("This is Sammir")
+print ("This is sammir")
 
 
 
